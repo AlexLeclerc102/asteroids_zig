@@ -1,0 +1,11 @@
+.{
+    .name = "asteroids_zig",
+    .version = "0.0.1",
+    .dependencies = .{
+        .@"raylib-zig" = .{
+            .url = "git+https://github.com/Not-Nik/raylib-zig?ref=devel#4e05ee5a3f1384700f62d4ad6545d2dd48f72ec1",
+            .hash = "12203d859a74737cefe2e1d345a612b59fd372030cc749f9950ef418e7e0cb7d15e5",
+        },
+    },
+    .paths = .{""},
+}
